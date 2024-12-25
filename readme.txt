@@ -42,3 +42,13 @@ This plugin is actively being developed & improved. We’re far from done and ar
 
 
 == Upgrade Notice ==
+
+
+== Developer Notes ==
+
+
+* Public source code GitHub link for review, study, and contribute.
+
+https://github.com/alamingitpailot/related-posts
+
+For more information on how to contribute to this plugin, please visit our GitHub repository.
